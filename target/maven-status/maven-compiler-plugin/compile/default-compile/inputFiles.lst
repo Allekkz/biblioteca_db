@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\unincor\biblioteca_db\Biblioteca_db.java
+C:\Users\Alex\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\unincor\biblioteca_db\configurations\MySQL.java
+C:\Users\Alex\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\unincor\biblioteca_db\exceptions\CadastroException.java
+C:\Users\Alex\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\unincor\biblioteca_db\model\dao\AutorDao.java
+C:\Users\Alex\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\unincor\biblioteca_db\model\dao\LivroDao.java
+C:\Users\Alex\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\unincor\biblioteca_db\model\domain\Autor.java
+C:\Users\Alex\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\unincor\biblioteca_db\model\domain\Livro.java
+C:\Users\Alex\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\unincor\biblioteca_db\model\services\AutorService.java
+C:\Users\Alex\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\unincor\biblioteca_db\model\services\LivroService.java

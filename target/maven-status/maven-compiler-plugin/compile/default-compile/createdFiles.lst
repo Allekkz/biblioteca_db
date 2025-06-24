@@ -1,0 +1,9 @@
+com\unincor\biblioteca_db\Biblioteca_db.class
+com\unincor\biblioteca_db\configurations\MySQL.class
+com\unincor\biblioteca_db\model\services\LivroService.class
+com\unincor\biblioteca_db\model\services\AutorService.class
+com\unincor\biblioteca_db\model\domain\Autor.class
+com\unincor\biblioteca_db\model\domain\Livro.class
+com\unincor\biblioteca_db\model\dao\LivroDao.class
+com\unincor\biblioteca_db\exceptions\CadastroException.class
+com\unincor\biblioteca_db\model\dao\AutorDao.class
